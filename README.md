@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Miguel!
-
-💻 DevOps Engineer  
-☁️ Working mainly with Microsoft Azure (professionally)  
-🚀 Passionate about automation, cloud, and building things  
-
 ## 📌 About This GitHub
 This GitHub is a collection of personal projects I build in my free time.  
 It is not fully focused on Azure — that’s mainly part of my professional work.
@@ -16,13 +10,6 @@ Most of my repositories are private, but I share some projects here when it make
 
 ## 🌐 Website
 - https://miguelpereira.dev
-
-## 🛠️ Tech Stack you might find here
-- TypeScript (React, Electron)
-- C#
-- C++
-- PowerShell
-- SvelteKit
 
 ## 📫 Contact
 - GitHub: https://github.com/miguel-apereira
