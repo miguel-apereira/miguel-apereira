@@ -1,4 +1,4 @@
-## Hi!
+## 🙋‍♂️ Hi!
 
 I'm Miguel, a DevOps Engineer who enjoys building things, automating stuff, and exploring new technologies.
 
