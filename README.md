@@ -1,3 +1,7 @@
+## Hi!
+
+I'm Miguel, a DevOps Engineer who enjoys building things, automating stuff, and exploring new technologies.
+
 ## 📌 About This GitHub
 This GitHub is a collection of personal projects I build in my free time.  
 It is not fully focused on Azure — that’s mainly part of my professional work.
