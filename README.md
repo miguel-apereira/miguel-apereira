@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Miguel!
 
-<!--
-**miguel-apereira/miguel-apereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 DevOps Engineer  
+☁️ Working mainly with Microsoft Azure (professionally)  
+🚀 Passionate about automation, cloud, and building things  
 
-Here are some ideas to get you started:
+## 📌 About This GitHub
+This GitHub is a collection of personal projects I build in my free time.  
+It is not fully focused on Azure — that’s mainly part of my professional work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find experiments, ideas, and applications I create to learn and explore different technologies.
+
+Since I enjoy building things outside of work, I don’t stick to a specific programming language — I use whatever gets the job done, no overthinking.
+
+Most of my repositories are private, but I share some projects here when it makes sense.
+
+## 🌐 Website
+- https://miguelpereira.dev
+
+## 🛠️ Tech Stack you might find here
+- TypeScript (React, Electron)
+- C#
+- C++
+- PowerShell
+- SvelteKit
+
+## 📫 Contact
+- GitHub: https://github.com/miguel-apereira
+- LinkedIn: https://www.linkedin.com/in/miguel-pereira-30/
+
+---
+Always learning, always improving.
